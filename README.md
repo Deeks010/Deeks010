@@ -42,7 +42,9 @@ I’m an **AI/ML Engineer** focused on customizing and fine-tuning **Large Langu
 
 <p align="center">
   <!-- GitHub Contributions Snake Animation -->
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  
+  ![Contribution Snake Animation](https://github.com/Deeks010/Deeks010/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 
 ---
