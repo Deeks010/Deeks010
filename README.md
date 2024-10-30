@@ -42,7 +42,7 @@ I have collaborated with colleagues on impactful projects, building products wit
 
 <p align="center">
   <!-- GitHub Contributions Snake Animation -->
-  <img src="https://github.com/Deeks010/Deeks010/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Deeks010/Deeks010/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
