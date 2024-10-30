@@ -1,5 +1,9 @@
 <!-- Custom Greeting and Banner Image -->
-<h1 align="center">Hello, I'm Dheekshith 👋</h1>
+<h1 align="center">
+  <span style="color: #4CAF50;">👋 Welcome to My Profile!</span><br>
+  <span style="font-size: 2.5em;">I'm Dheekshith</span><br>
+  <span style="font-weight: lighter; font-size: 1.5em;">AI/ML Engineer | Tech Enthusiast | Lifelong Learner</span>
+</h1>
 <p align="center">
   <img src="https://your-banner-image-url.com/banner.png" alt="Your custom banner" width="800"/>
 </p>
