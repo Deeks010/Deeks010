@@ -10,7 +10,7 @@
 
 I’m an **AI/ML Engineer** focused on customizing and fine-tuning **Large Language Models (LLMs)** for specific applications, with a background in **Natural Language Processing (NLP)** and **Machine Learning (ML)**. I have worked extensively on **Text-to-Speech (TTS)** and **Speech-to-Text (STT)** projects and love tackling impactful challenges. 
 
- I have collaborated with colleagues on impactful projects, building products with positive social impact and achieving success in multiple **hackathons**
+I have collaborated with colleagues on impactful projects, building products with positive social impact and achieving success in multiple **hackathons**.
 
 ---
 
@@ -42,9 +42,7 @@ I’m an **AI/ML Engineer** focused on customizing and fine-tuning **Large Langu
 
 <p align="center">
   <!-- GitHub Contributions Snake Animation -->
-  
-  ![Contribution Snake Animation](https://github.com/Deeks010/Deeks010/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github.com/Deeks010/Deeks010/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
