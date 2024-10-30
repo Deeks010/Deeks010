@@ -1,5 +1,5 @@
 <!-- Custom Greeting and Banner Image -->
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello, I'm Dheekshith 👋</h1>
 <p align="center">
   <img src="https://your-banner-image-url.com/banner.png" alt="Your custom banner" width="800"/>
 </p>
@@ -10,7 +10,7 @@
 
 I’m an **AI/ML Engineer** focused on customizing and fine-tuning **Large Language Models (LLMs)** for specific applications, with a background in **Natural Language Processing (NLP)** and **Machine Learning (ML)**. I have worked extensively on **Text-to-Speech (TTS)** and **Speech-to-Text (STT)** projects and love tackling impactful challenges. 
 
-I've participated in several hackathons, building products with a positive social impact alongside my peers, and achieved numerous wins with these projects!
+ I have collaborated with colleagues on impactful projects, building products with positive social impact and achieving success in multiple **hackathons**
 
 ---
 
@@ -37,7 +37,7 @@ I've participated in several hackathons, building products with a positive socia
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeks010&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
