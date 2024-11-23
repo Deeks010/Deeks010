@@ -44,10 +44,6 @@ I have collaborated with colleagues on impactful projects, building products wit
   <img src="https://github-readme-stats.vercel.app/api?username=Deeks010&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <!-- GitHub Contributions Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Deeks010/Deeks010/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-</p>
 
 ---
 
